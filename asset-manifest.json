@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sklep/static/css/main.dbc393c5.css",
-    "main.js": "/Sklep/static/js/main.d1386dc0.js",
+    "main.js": "/Sklep/static/js/main.e735bf5d.js",
     "static/js/453.59ce84fa.chunk.js": "/Sklep/static/js/453.59ce84fa.chunk.js",
     "static/media/4.png": "/Sklep/static/media/4.4df35fa971e7c14ef6f5.png",
     "static/media/27.png": "/Sklep/static/media/27.71da17b0835ef9c58d0f.png",
@@ -39,7 +39,7 @@
     "static/media/5.png": "/Sklep/static/media/5.d08205a6e246b78133a1.png",
     "static/media/25.png": "/Sklep/static/media/25.484ec8941060886f02af.png",
     "static/media/46.png": "/Sklep/static/media/46.25ce908f8b106b51073f.png",
-    "static/media/12.png": "/Sklep/static/media/12.16e9433864b1b6f614cc.png",
+    "static/media/1.png": "/Sklep/static/media/1.16e9433864b1b6f614cc.png",
     "static/media/14.png": "/Sklep/static/media/14.0548257f479beb04346a.png",
     "static/media/31.png": "/Sklep/static/media/31.caf044da20a957636166.png",
     "static/media/30.png": "/Sklep/static/media/30.a842ed2670f2fd81dfbf.png",
@@ -49,7 +49,7 @@
     "static/media/36.png": "/Sklep/static/media/36.22a2779df571778b8293.png",
     "static/media/48.png": "/Sklep/static/media/48.1d560aca826d6a2d8233.png",
     "static/media/21.png": "/Sklep/static/media/21.ab5f43e6f5c656ab4a40.png",
-    "static/media/1.png": "/Sklep/static/media/1.8b5c4dda91b84b69b446.png",
+    "static/media/12.png": "/Sklep/static/media/12.8b5c4dda91b84b69b446.png",
     "static/media/49.png": "/Sklep/static/media/49.ee890da11cfe295e38e9.png",
     "static/media/54.png": "/Sklep/static/media/54.8b60259a7c0e4095d6a4.png",
     "static/media/6.png": "/Sklep/static/media/6.dc3a6dd37c6558190597.png",
@@ -71,11 +71,11 @@
     "static/media/15.png": "/Sklep/static/media/15.03878a23d2a004c5ae48.png",
     "index.html": "/Sklep/index.html",
     "main.dbc393c5.css.map": "/Sklep/static/css/main.dbc393c5.css.map",
-    "main.d1386dc0.js.map": "/Sklep/static/js/main.d1386dc0.js.map",
+    "main.e735bf5d.js.map": "/Sklep/static/js/main.e735bf5d.js.map",
     "453.59ce84fa.chunk.js.map": "/Sklep/static/js/453.59ce84fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbc393c5.css",
-    "static/js/main.d1386dc0.js"
+    "static/js/main.e735bf5d.js"
   ]
 }
