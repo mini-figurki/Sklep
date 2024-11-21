@@ -367,19 +367,19 @@ const Towar = () => {
                         className="m-0 p-0 col-12"
                     ></div>
 
-                    <div
-                        style={{
-                            fontSize: "18px",
-                            fontStyle: "italic",
-                            minHeight: "45px",
-                            width: "180px",
-                            backgroundColor: "hsla(0, 0%, 0%, 0.5)",
-                            margin: "5px",
-                        }}
-                        className=" p-1 ps-2 text-white  d-flex align-items-center justify-content-center border border-2 border-primary rounded"
-                    >
-                        Wysokość: <b className="m-0 p-0 ps-2 pe-2"> {height}</b>
-                    </div>
+                    // <div
+                    //     style={{
+                    //         fontSize: "18px",
+                    //         fontStyle: "italic",
+                    //         minHeight: "45px",
+                    //         width: "180px",
+                    //         backgroundColor: "hsla(0, 0%, 0%, 0.5)",
+                    //         margin: "5px",
+                    //     }}
+                    //     className=" p-1 ps-2 text-white  d-flex align-items-center justify-content-center border border-2 border-primary rounded"
+                    // >
+                    //     Wysokość: <b className="m-0 p-0 ps-2 pe-2"> {height}</b>
+                    // </div>
 
                     <div
                         style={{
